@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg" /></a>
+    <a href="<a href="https://imgur.com/Q0r8ZhI"><img src="https://i.imgur.com/Q0r8ZhI.jpg" title="source: imgur.com" /></a>" /></a>
 </p>
 
 

@@ -4,12 +4,9 @@
 <img src="https://img.shields.io/badge/SWIFT-5.1-brightgreen.svg" />
 </p>
 
-<p align="center">
-![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
-</p>
 
 <p align="center">
-  <a href="https://imgur.com/SajZa44"><img src="https://i.imgur.com/SajZa44.jpg" title="source: imgur.com" /></a>
+![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
 </p>
 
 

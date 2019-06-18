@@ -4,6 +4,10 @@
 <img src="https://img.shields.io/badge/SWIFT-5.1-brightgreen.svg" />
 </p>
 
+![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
+
+
+
 <Head>
 Includes my initial thoughts/learnings on the new ios13 and Swift 5.1 work on the WWDC 2019 releases  
 </Head>

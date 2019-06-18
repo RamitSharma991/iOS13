@@ -2,9 +2,10 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/SWIFT-5.1-brightgreen.svg" />
+    ![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
+
 </p>
 
-  ![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
 
 <p align="center">
   (https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)

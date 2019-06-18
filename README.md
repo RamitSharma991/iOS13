@@ -8,6 +8,10 @@
 ![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
 </p>
 
+<p align="center">
+  <a href="https://imgur.com/SajZa44"><img src="https://i.imgur.com/SajZa44.jpg" title="source: imgur.com" /></a>
+</p>
+
 
 <Head>
 Includes my initial thoughts/learnings on the new ios13 and Swift 5.1 work on the WWDC 2019 releases  

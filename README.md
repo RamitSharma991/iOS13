@@ -6,7 +6,7 @@
 
 
 <p align="center">
-![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
+  ![](https://github.com/RamitSharma991/iOS13/blob/master/ios13.jpg)
 </p>
 
 
